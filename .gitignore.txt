@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/_logfiles
+**/_mailPickup
+**/.vs
+**/App_Readme
+**/__publish
+**/packages
+**/obj
+**/bin
+**/_excelUploader
+**/node_modules
+**/Import 
+**/_fattureUploaded
+*.cs.dll
+**/settings.txt
