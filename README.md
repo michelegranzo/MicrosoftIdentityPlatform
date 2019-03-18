@@ -30,7 +30,7 @@ https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-asp-
 E ho aggiunto 
 https://github.com/Azure-Samples/active-directory-dotnet-webapp-openidconnect-v2
 
-#settaggi
+# Configurazione
 L'applicazione è basata su un file di configurazione settings.txt posizionato nella root. Il contenuto deve essere 
 ClientId:{ClientId}
 ClientSecret:{ClientSecret}
