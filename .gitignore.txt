@@ -15,4 +15,4 @@
 **/Import 
 **/_fattureUploaded
 *.cs.dll
-**/settings.txt
+settings.txt
